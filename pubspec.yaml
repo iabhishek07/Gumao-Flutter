@@ -1,0 +1,38 @@
+name: gumao
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_swiper: ^1.1.6
+
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+ 
+  fonts:
+    - family: Gilroy
+      fonts:
+        - asset: assets/fonts/Gilroy-ExtraBold.otf
+          weight: 900
+        - asset: assets/fonts/Gilroy-Light.otf
+
+    - family: Avenir
+      fonts:
+        - asset: assets/fonts/AvenirLTStd-Medium.otf
+        - asset: assets/fonts/AvenirLTStd-Book.otf
