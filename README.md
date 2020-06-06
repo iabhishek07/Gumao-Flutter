@@ -27,7 +27,7 @@ This [Design](https://dribbble.com/shots/11251095-gumao-game-character-collector
 
 |                   1.                    |                    2                    |            3                |
 | :--------------------------------------:| :-------------------------------------: |:--------------------------: |
-|<img src="/demo.gif" height="500em"/>    | <img src="/HomePage.png" height="500em"/>   |<img src="/DetailPage.png" height="500em"/>|
+|<img src="/demo.gif" height="500em"/>    | <img src="/HomeIos.png" height="500em"/>   |<img src="/DetailIos.png" height="500em"/>|
 
 ### Android
 
